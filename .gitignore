@@ -1,0 +1,14 @@
+node_modules
+dist
+.next
+coverage
+.env
+.env.*
+!.env.example
+*.log
+.turbo
+.expo
+test-results
+playwright-report
+dist-bundle
+packages/ui-tokens/css
